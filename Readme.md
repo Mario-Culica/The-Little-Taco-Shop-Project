@@ -14,11 +14,7 @@ A responsive restaurant website built using HTML, CSS, and JavaScript.
 - CSS3 (Flexbox, Grid, Variables)
 - JavaScript
 
-## 📸 Preview
-(Add screenshots here if you want)
 
-## 🔗 Live Demo
-(Add Netlify/Vercel link here if you deploy)
 
 ## 💻 How to Run Locally
 
